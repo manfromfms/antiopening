@@ -1,0 +1,10 @@
+[package]
+name = "bench"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+lazy_static = "1.4.0"
+byteorder = "1.5.0"
+chess = "2.0.0"  
+once_cell = "1.17.1"
